@@ -1,8 +1,8 @@
 # Test
 ## Header level 2
-* chữ in nghiêng *
-** chữ in hoa **
-> chắc là " " dấu này
+*chữ in nghiêng*
+**chữ in hoa**
+>chắc là " " dấu này
 
 trắc nghiệm:
 * A

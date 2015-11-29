@@ -122,15 +122,15 @@ Gồm nhiều giao thức cung cấp cho các ứng dụng người dùng. Đư�
 -	DNS (Domain Name System): thông dịch tên của các miền (Domain) và các node mạng được công khai sang các địa chỉ IP.
 
 #**III.Một số giao thức tầng ứng dụng trong mô hình TCP/IP**
--   FTP: Đây là một dịch vụ hướng kết nối và tin cậy, sử dụng giao thức TCP để cung cấp tuyển các tập tin giữa các hệ thống hỗ trợ FTP.
--   Telnet( Terminal Network) : Cho phép các phiên đăng nhập từ xa giữa các máy tính. Do Telnet hỗ trợ chế độ văn bản giao diện người dùng thường ở dạng dấu nhắc lệnh tương tác. Chúng ta có thể đánh lệnh và các trả lời sẽ được hiển thị.
--   HTTP(Hyper Text Tranfer Protocol) :Trao đổi các tài liệu siêu văn bản để hỗ trợ cho WEB.
--   WWW(World Wide Web) : là một khung làm việc có kiến trúc để truy cập các tài liệu liên kết trải khắp hàng ngàn máy trên tất cả mạng Internet.
--   SMTP(Simple Mail Transfer Protocol): Tuyển thư điện tử các máy tính. Đây là dạng đặc biệt của việc tuyển tin được sử dụng để gửi các thông báo tới một máy chủ thư điện tử( mail sever) hoặc giữa các mail sever với nhau.
--   POP3(Post Office Protocol version 3): Cho phép lấy thư ddienj tử từ hộp thư trên máy mail sever.
--   DNS(Domain Name System): Hệ thống chuyển đổi tên miền thành địa chỉ IP và ngược lại. Khi cần truy cập đến một Website trên Internet, người dùng có thể gõ địa chỉ IP của Website đó hoặc gõ tên DNS. Vì các địa chỉ IP rất khó nhớ, DNS là một dịch vụ đáng giá. Nó giúp mọi người tên để truy cập Internet.
--   DHCP(Dynamic Host Configuration Protocol): Giao thức cung cấp các thông tin cấu hình động cho các máy trạm. 
--   NNTP(Network News Transfer Protocol): Giao thức được đưa ra nhằm phục vụ nhóm tin trong hệ thống mạng. Nó cho phép trao đổi thư tín, bài báo và bản tin điện tử trên Internet.
+- **FTP(*File Transfer Protocol*)** : Đây là một dịch vụ hướng kết nối và tin cậy, sử dụng giao thức TCP để cung cấp tuyển các tập tin giữa các hệ thống hỗ trợ FTP.
+- **Telnet(*Terminal Network*)** : Cho phép các phiên đăng nhập từ xa giữa các máy tính. Do Telnet hỗ trợ chế độ văn bản giao diện người dùng thường ở dạng dấu nhắc lệnh tương tác. Chúng ta có thể đánh lệnh và các trả lời sẽ được hiển thị.
+- **HTTP(*Hyper Text Tranfer Protocol*)** :Trao đổi các tài liệu siêu văn bản để hỗ trợ cho WEB.
+- **WWW(*World Wide Web*)** : là một khung làm việc có kiến trúc để truy cập các tài liệu liên kết trải khắp hàng ngàn máy trên tất cả mạng Internet.
+- **SMTP(*Simple Mail Transfer Protocol*)** : Tuyển thư điện tử các máy tính. Đây là dạng đặc biệt của việc tuyển tin được sử dụng để gửi các thông báo tới một máy chủ thư điện tử( mail sever) hoặc giữa các mail sever với nhau.
+- **POP3(*Post Office Protocol version 3*)** : Cho phép lấy thư ddienj tử từ hộp thư trên máy mail sever.
+- **DNS(*Domain Name System*)** : Hệ thống chuyển đổi tên miền thành địa chỉ IP và ngược lại. Khi cần truy cập đến một Website trên Internet, người dùng có thể gõ địa chỉ IP của Website đó hoặc gõ tên DNS. Vì các địa chỉ IP rất khó nhớ, DNS là một dịch vụ đáng giá. Nó giúp mọi người tên để truy cập Internet.
+- **DHCP(*Dynamic Host Configuration Protocol*)** : Giao thức cung cấp các thông tin cấu hình động cho các máy trạm. 
+- **NNTP(*Network News Transfer Protocol*)** : Giao thức được đưa ra nhằm phục vụ nhóm tin trong hệ thống mạng. Nó cho phép trao đổi thư tín, bài báo và bản tin điện tử trên Internet.
 
 
 

@@ -2,7 +2,7 @@
 #**I.Học cách sử dụng Github**
 * Bước 1 : Đăng ký một tài khoản tại Github và đăng nhập.
 * Bước 2 : Học cách sử dụng ngôn ngữ `Markdown`
-* Bươc 3 : Tạo một repo đầu tiên và gõ bài bằng `Markdown`
+* Bước 3 : Tạo một repo đầu tiên và gõ bài bằng `Markdown`
 
 #**II.Mô hình OSI và TCP/IP**
 ##**A.Mô hình OSI**
